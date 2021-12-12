@@ -1,0 +1,57 @@
+#kutu1{
+  display:flex;
+  justify-content:center;
+  width:100%;
+  height:100px;
+  background-color:#3dff5a;
+  margin-bottom:10px;
+
+  text-shadow:10px 10px 3px #333;
+  font-family:Comic Sans MS;
+  
+  background:url('https://images.pexels.com/photos/844297/pexels-photo-844297.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940')
+}
+
+#kutu2 {
+  width:24%;
+  height:400px;
+  background-color:#0d51ff;
+  float:left;
+  margin-right:10px;
+  
+  background:url('https://images.pexels.com/photos/911738/pexels-photo-911738.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260')
+  
+  
+}
+
+#kutu3 {
+  width:24%;
+  height:400px;
+  background-color:#ff1900;
+  float:left;
+  margin-right:10px;
+}
+
+#kutu4 {
+  width:24%;
+  height:400px;
+  background-color:#ff26e9;
+  float:left;
+  margin-right:10px;
+}
+
+#kutu5 {
+  width:24%;
+  height:400px;
+  background-color:#ff9e03;
+  float:left;
+  margin-right:10px;
+}
+
+#altkutu{
+  width:100%;
+  height:50px;
+  background-color:grey;
+  margin-top:10px;
+	float:left;
+}
